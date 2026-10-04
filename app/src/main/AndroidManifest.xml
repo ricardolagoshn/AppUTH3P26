@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppUTH3P26">
         <activity
+            android:name=".Views.ActivityPersonas"
+            android:exported="false" />
+        <activity
             android:name=".ActivityDashboard"
             android:exported="false" />
         <activity

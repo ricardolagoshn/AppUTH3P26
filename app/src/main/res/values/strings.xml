@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">AppUTH3P26</string>
     <string name="btn_aceptar">Aceptar</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="AgregarPersona">Agregar Persona</string>
+    <string name="NuevaPersona">Nueva persona</string>
+    <string name="PersonaDescripcion">Completa la informacion para guardar el registro en la base de datos local.</string>
+    <string name="DatosPersonales">Datos personales</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Correo">Correo electronico</string>
+    <string name="FormatoFecha">Ejemplo: 26/09/2026</string>
 </resources>
